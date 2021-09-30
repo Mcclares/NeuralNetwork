@@ -47,7 +47,7 @@ n.query([1.0,0.5,-1.5])
 data_file = open("mnist_dataset/mnist_train_100.csv", "r")
 data_list = data_file.readlines()
 data_file.close()
-
+# test
 
 
 
